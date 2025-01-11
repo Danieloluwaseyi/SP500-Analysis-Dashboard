@@ -24,9 +24,9 @@ This project involves analyzing the S&P 500 dataset from 1985 to 2022 to derive 
 
 #### 7. **Visualizations**
 Below are some of the dashboards included in this project:
-1. **Page 1**: Trends in Average Closing Prices.
-2. **Page 2**: Volatility and Cumulative Returns.
-3. **Page 3**: Quarterly and Monthly Trading Volumes.
+1. **Page 1**: Closing Price Trends
+2. **Page 5**: Volume And Volatility 
+3. **Page 6**: Market Performance 
 ## Conclusion
 This analysis highlights key trends in the S&P 500 index over 38 years, providing insights into market performance, volatility, and returns. 
 ## Future Work
