@@ -18,9 +18,7 @@ This project involves analyzing the S&P 500 dataset from 1985 to 2022 to derive 
 - **Data Cleaning and Transformation**: Power Query, DAX.
 - **Visualization**: Power BI.
 ## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/sp500-analysis.git
+1. Download the Pbix file and make use of Power BI application to open and use the slicers to interact with the dashboard 
 
 #### 7. **Visualizations**
 Below are some of the dashboards included in this project:
@@ -32,3 +30,7 @@ This analysis highlights key trends in the S&P 500 index over 38 years, providin
 ## Future Work
 - Integrate Python-based predictive modeling.
 - Expand analysis to include sector-specific performance.
+
+Connect with Me If you have questions or feedback, feel free to reach out:
+
+Email: sheyidaniells@gmail.com
